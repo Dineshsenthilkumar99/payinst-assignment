@@ -1,0 +1,74 @@
+.profile-container {
+  background-color: #f8f1d340;
+  padding: 60px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.profile-image-container {
+  background-color: #87cc81;
+  width: 500px;
+  height: 430px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profile-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+.profile-sub-heading {
+  color: #1f2027;
+  font-family: 'Inter';
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.icon {
+  width: 128px;
+  height: 128px;
+  flex-shrink: 0;
+  margin-left: 20px;
+}
+.profile-heading {
+  color: #1f2027;
+  font-family: 'Poppins';
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100px;
+  width: 500px;
+  height: 300px;
+}
+.for-student {
+  color: #1f2027;
+  font-family: 'Poppins';
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100px;
+}
+.description-container {
+  width: 636px;
+  height: 38px;
+  margin-bottom: 50px;
+}
+.description {
+  color: #505c59;
+  font-family: 'Inter';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.signup-button {
+  border-radius: 30px;
+  background: #f27a44;
+  color: #ffffff;
+  border: 0;
+  width: 165px;
+  height: 51px;
+}
