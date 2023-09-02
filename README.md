@@ -1,115 +1,25 @@
-Write the objective of the assignment yourself
+published link - https://dineshpayinst.ccbp.tech
 
-### Refer to the image below:
+Task Description: As a web developer, your task is to create a responsive website that works seamlessly on desktop, tablet, and mobile devices. Once the development is complete, you will host it on Netlify and share the link with the team. 
 
-Add UI reference image yourself
+Task Steps: 
 
-<div style="text-align: center;">
-     <!-- <img src="remove this text and add the image URL" alt="ui"> -->
-</div>
-<br/>
+Gather all the necessary assets such as logos, images, fonts, and color schemes for the website. Link to The Resources: Webtaskresources- Get it from the mentioned source
 
-### Design Files
+Create a responsive design that works well on desktop, tablet, and mobile devices. Use grids and breakpoints to ensure that the design is optimized for different screen sizes. 
 
-<details>
-<summary>Add Route Name</summary>
-<br/>
-Add the design files according to the route (if any) and responsiveness
+Code the website using React, HTML, CSS, and JavaScript. Ensure that the website is accessible and meets web standards. 
 
-<!-- - [Extra Small (Size < 576px) and Small (Size >= 576px)](remove this text and add the image URL here)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](remove this text and add the image URL here) -->
+Use responsive design techniques such as media queries to ensure that the website is optimized for different screen sizes. 
 
-</details>
+Test the website thoroughly to ensure that it is bug-free and works well on different browsers and devices. 
 
-### Set Up Instructions
+Once the development is complete, host the website on Netlify.  
 
-<details>
-<summary>Click to view</summary>
+Share the link with the team in the corresponding platform that you received this task. Make any necessary changes and improvements to ensure that the website meets the project requirements. 
 
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
+Resource for Task: Webtaskresources - Click on this link to view resources
 
-</details>
+ 
+figma Link : https://www.figma.com/file/Yuvgoqi2kww5U03XvqiE60/New-Web-Development-task?node-id=0%3A1&t=itjc1qsL4BaWliiS-1 
 
-### Assignment Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities:
-
-- Add all the functionalities to be achieved(according to the route, if any) yourself
-
-</details>
-
-### Assignment Completion Checklist
-
-<details>
-<summary>Click to view</summary>
-
-- **Along with the below points, add your checklist specific to the assignment**
-
-- Read the instructions given in the assignment carefully and list down the **Assignment Completion Checklist** for the assignment and start working on it
-- The completion Checklist includes the below-mentioned points
-  - I have completed all the functionalities asked in the assignment
-  - I have used only the resources (Frameworks, Design files, APIs, third-party packages) mentioned in the assignment
-  - I have modified the README.md file based on my assignment instructions
-  - I have completed the assignment **ON TIME**
-- **Note:**
-  - Ensure that you have marked all the checklist points in your completion checklist before submitting the assignment
-  </details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- Add third-party packages list yourself
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-<br/>
-
-- Add any important note here, like user credentials for authentication.
-
-</details>
-
-### Resources
-
-<details>
-<summary>Data Fetch URLs</summary>
-<br/>
-
-- Add the URLs list to fetch the data yourself
-
-</details>
-
-<details>
-<summary>Image URLs</summary>
-<br/>
-
-- Add the list of all image URLs needed in the assignment yourself.
-
-</details>
-
-<details>
-<summary>Colors</summary>
-<br/>
-
-Add the text and background colours to be used in the assignment yourself.
-
-<!-- <div style="background-color: #3b82f6; width: 150px; padding: 10px; color: white">Hex: #3b82f6</div> -->
-
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Add the font-families to be used in the assignment yourself.
-
-</details>
